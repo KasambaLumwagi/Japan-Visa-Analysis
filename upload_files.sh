@@ -1,0 +1,1 @@
+scp -i visa_key.pem  -r ./src/* azureuser@48.217.48.80:/home/azureuser
